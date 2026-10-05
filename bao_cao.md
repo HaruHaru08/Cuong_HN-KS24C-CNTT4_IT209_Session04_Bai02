@@ -138,4 +138,6 @@ Kết quả (mã hash có thể khác):
 ```
 
 Ảnh chụp màn hình:
-![img.png](img.png)
+<img width="1281" height="180" alt="image" src="https://github.com/user-attachments/assets/6384fc14-7439-4d2c-aab8-ae0e701d65b8" />
+
+
