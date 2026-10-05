@@ -1,7 +1,4 @@
-"# D?  n Git B…i 2"
-<<<<<<< HEAD
-Dòng mô t?: C?p nh?t t? nhánh main
-=======
-Dòng mô t?: C?p nh?t t? nhánh feature-update
->>>>>>> feature-update
+"# D? Â n Git Bâ€¦i 2"
+DÃ²ng mÃ´ t?: C?p nh?t t? nhÃ¡nh main vÃ  C?p nh?t t? nhÃ¡nh feature-update
+
 
